@@ -1,0 +1,8 @@
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Studium/WS24/Praktikum/QRCode/WorkingVersion/QRCodeReaderWorking/.utmp/RelWithDebInfo/201k2r22/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

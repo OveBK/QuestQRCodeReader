@@ -1,0 +1,12 @@
+# ninja log v5
+45	599	7552425754272387	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cbe587481603f55a
+604	948	7552425757912944	D:/Studium/WS24/Praktikum/QRCode/FinalVersion/QuestQRCodeReader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/681j53a3/obj/arm64-v8a/libswappywrapper.so	359c41c9bbe979a0
+17	1633	7552425764554063	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2a1c37e4ebef4ff9
+13	1667	7552425764974444	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7d669c56ad49b9a8
+32	1680	7552425765014481	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b5864f1678e0f54f
+40	1738	7552425765810282	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a2356273156f414d
+27	1782	7552425766330753	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	85983e219e059245
+1	1819	7552425766691086	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f1d49aa3988fff0
+22	1983	7552425768352590	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	53f20c76613909da
+8	2081	7552425769363511	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5096906e4a2e58a2
+2081	2197	7552425770484527	D:/Studium/WS24/Praktikum/QRCode/FinalVersion/QuestQRCodeReader/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/681j53a3/obj/arm64-v8a/libgame.so	6b7dfc268887eb19

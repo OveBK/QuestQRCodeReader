@@ -1,0 +1,3 @@
+D:\Studium\WS24\Praktikum\QRCode\FinalVersion\QuestQRCodeReader\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Studium\WS24\Praktikum\QRCode\FinalVersion\QuestQRCodeReader\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+D:\Studium\WS24\Praktikum\QRCode\FinalVersion\QuestQRCodeReader\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
